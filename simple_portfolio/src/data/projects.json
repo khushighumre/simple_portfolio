@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Chat Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "real-time chat application with authentication, live messaging, and MongoDB backend.",
+    "skills": ["React", "Express", "Node", "Mongodb", "Socket.io"],
+   
+    "source": "https://github.com/khushighumre/Chat_app"
   },
   {
-    "title": "Project B",
+    "title": "Interview Prep AI (Ongoing)",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "AI-powered web app that helps students practice interview questions and receive instant feedback.",
+    "skills": ["React", "Express", "Node", "Mongodb"],
+    
+    "source": "https://github.com/khushighumre/Interview_prep"
   },
   {
-    "title": "Project C",
+    "title": "Abhivriddhi Website Contribution",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "Contributed to the official Abhivriddhi website by adding features, improving design, and enhancing user experience.",
+    "skills": ["HTML", "CSS", "JS"],
+    
     "source": "https://www.github.com"
   }
 ]

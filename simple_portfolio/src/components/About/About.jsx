@@ -19,28 +19,25 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I have built projects using the MERN stack , including a real-time chat website and AI-powered interview preparation platform (in progress).
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Technical Coordinator</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Contributed to Abhivriddhi's website by adding features and improvements. Experienced in team collaboration and student initiatives.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Learner & Collaborator</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I actively contribute to projects, collaborate with teams, and keep learning new technologies to grow as a developer.
               </p>
             </div>
           </li>

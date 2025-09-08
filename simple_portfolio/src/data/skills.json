@@ -16,8 +16,8 @@
     "imageSrc": "skills/node.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   },
   {
     "title": "MongoDB",
@@ -26,5 +26,13 @@
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C language",
+    "imageSrc": "skills/c.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
   }
 ]
